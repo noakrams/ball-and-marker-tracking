@@ -46,7 +46,8 @@ I had two main goals when starting the project. The first is that I wanted to ex
 ---
 
 ## References
-- [Back To The Top](https://github.com/jamesqquick/read-me-template)
+- [Circle Hough Transform](https://en.wikipedia.org/wiki/Circle_Hough_Transform#:~:text=The%20circle%20Hough%20Transform%20(CHT,maxima%20in%20an%20accumulator%20matrix.)
+- [Line Detection with Hough](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 
 ---
 
