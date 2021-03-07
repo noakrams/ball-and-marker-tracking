@@ -13,7 +13,6 @@
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
@@ -25,13 +24,14 @@ I had two main goals when starting the project. The first is that I wanted to ex
 1. Using a web camera, it can detect if there is a tennis ball or marker in the video frame. If a marker is detected, the color of the marker is detected as well (orange, blue or purple).
 2. Track the ball or the marker as it moves inside the frame and draw the trail of the ball/marker.
 
+[Back To The Top](#Marker-and-Ball-tracking)
 
 #### Technologies
 
 - OpenCV
 - Python 2.7.17
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Marker-and-Ball-tracking)
 
 ---
 
@@ -42,15 +42,17 @@ I had two main goals when starting the project. The first is that I wanted to ex
 - Change the values of the trail and mask in the right places as mantioned in track.py
 - Run ./track.py and start drawing
 
+[Back To The Top](#Marker-and-Ball-tracking)
+
 ---
 
 ## References
 - [Circle Hough Transform](https://en.wikipedia.org/wiki/Circle_Hough_Transform#:~:text=The%20circle%20Hough%20Transform%20(CHT,maxima%20in%20an%20accumulator%20matrix.)
 - [Line Detection with Hough](https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549)
 
+[Back To The Top](#Marker-and-Ball-tracking)
+
 ---
-
-
 
 ## Author Info
 
