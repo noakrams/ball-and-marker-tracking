@@ -1,12 +1,9 @@
 #!/usr/bin/python3
 
 from collections import deque
-from imutils.video import VideoStream
 import numpy as np
-import argparse
 import cv2
 import imutils
-import time
 
 # hough line detector with cv2
 def findColorAndLine(hsv, frame, markerColors):
@@ -58,7 +55,7 @@ ballMax = np.array([40, 255, 255])
 	In my case, the first is the value of orange and the second is blue."""
 
 markerColors = [[0, 29, 250, 43, 255, 255],  
-				[50, 170, 186, 255, 255, 255]] # orange, blue
+				[54, 170, 90, 255, 255, 255]] # orange, blue
 myColors = [[0, 165, 255], [255, 165, 0]] # orange, blue
 pts_ball = deque(maxlen = 80)
 trail_points = [deque(maxlen = 80), deque(maxlen = 80)]
