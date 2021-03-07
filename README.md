@@ -1,6 +1,6 @@
 # Marker and Ball tracking
 
-![Project Image](Resources/claude.png)
+![Project Image](Resources/projectsVideo.MOV)
 
 > Live Webcam Drawing
 
@@ -21,7 +21,7 @@
 I had two main goals when starting the project. The first is that I wanted to expand my knowledge in Hough Transform (circles and lines detection). The second is that I wanted to do a project related to painting because I really like to paint. For these reasons, I chose to use Hough Transform methods to detect a tennis ball and a marker in real-time. In this project I implemented a code that does the following:
 
 1. Using a web camera, it can detect if there is a tennis ball or marker in the video frame. If a marker is detected, the color of the marker is detected as well (orange, blue or purple).
-2. Track the ball or the marker as it moves inside the frame and draws the trail of the ball/marker.
+2. Track the ball or the marker as it moves inside the frame and draw the trail of the ball/marker.
 
 
 #### Technologies
