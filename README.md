@@ -1,7 +1,7 @@
 # Marker and Ball tracking
 
 ![Project Image](Resources/messingAround.gif)
-
+![Project Image](Resources/claude.png)
 
 
 > Live Webcam Drawing
