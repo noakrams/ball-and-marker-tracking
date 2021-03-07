@@ -28,8 +28,8 @@ I had two main goals when starting the project. The first is that I wanted to ex
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- OpenCV
+- Python 2.7.17
 
 [Back To The Top](#read-me-template)
 
@@ -38,20 +38,15 @@ I had two main goals when starting the project. The first is that I wanted to ex
 ## How To Use
 
 #### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+- Install collections, numpy, cv2 and imutils libraries.
+- Run python color_detection.py and pick the right values of the mask
+- Change the values of the trail and mask in the right places as mantioned in track.py
+- Run ./track.py and start drawing
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+- [Back To The Top](https://github.com/jamesqquick/read-me-template)
 
 ---
 
