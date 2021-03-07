@@ -1,8 +1,7 @@
 # Marker and Ball tracking
 
-<video width="320" height="240" controls>
-  <source src="Resources/messingAround.gif" type="video/mp4">
-</video>
+![Project Image](Resources/messingAround.gif)
+
 
 
 > Live Webcam Drawing
