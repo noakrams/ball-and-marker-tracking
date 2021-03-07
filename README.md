@@ -1,6 +1,9 @@
 # Marker and Ball tracking
 
-![Project Image](Resources/projectsVideo.MOV)
+<video width="320" height="240" controls>
+  <source src="Resources/projectsVideo.MOV" type="video/mp4">
+</video>
+
 
 > Live Webcam Drawing
 
